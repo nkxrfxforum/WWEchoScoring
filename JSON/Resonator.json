@@ -1,0 +1,937 @@
+[
+  {
+    "ID": 1,
+    "Class": "主輸出",
+    "Name": "今汐",
+    "MaxPoints": 490,
+    "NormalAttack": 2,
+    "HeavyAttack": 0,
+    "SecretWeapon": 20,
+    "Skills": 72,
+    "Other": 6,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "衍射傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴解放傷害加成",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 2,
+    "Class": "主輸出",
+    "Name": "忌炎",
+    "MaxPoints": 487.6,
+    "NormalAttack": 2,
+    "HeavyAttack": 68,
+    "SecretWeapon": 0,
+    "Skills": 11,
+    "Other": 19,
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "氣動傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "重擊傷害加成"
+    ]
+  },
+  {
+    "ID": 3,
+    "Class": "主輸出",
+    "Name": "長離",
+    "MaxPoints": 482.3,
+    "NormalAttack": 1,
+    "HeavyAttack": 0,
+    "SecretWeapon": 27,
+    "Skills": 59,
+    "Other": 13,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "熱熔傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 4,
+    "Class": "主輸出",
+    "Name": "安可",
+    "MaxPoints": 482.4,
+    "NormalAttack": 59,
+    "HeavyAttack": 2,
+    "SecretWeapon": 5,
+    "Skills": 12,
+    "Other": 22,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "熱熔傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "普攻傷害加成"
+    ]
+  },
+  {
+    "ID": 5,
+    "Class": "主輸出",
+    "Name": "鑒心",
+    "MaxPoints": 491.8,
+    "NormalAttack": 24,
+    "HeavyAttack": 31,
+    "SecretWeapon": 27,
+    "Skills": 6,
+    "Other": 12,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "氣動傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 6,
+    "Class": "主輸出",
+    "Name": "卡卡羅",
+    "MaxPoints": 478.3,
+    "NormalAttack": 20,
+    "HeavyAttack": 3,
+    "SecretWeapon": 52,
+    "Skills": 5,
+    "Other": 20,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "導電傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴解放傷害加成",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 7,
+    "Class": "主輸出",
+    "Name": "凌陽",
+    "MaxPoints": 475.2,
+    "NormalAttack": 40,
+    "HeavyAttack": 4,
+    "SecretWeapon": 4,
+    "Skills": 30,
+    "Other": 22,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "冷凝傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "普攻傷害加成"
+    ]
+  },
+  {
+    "ID": 8,
+    "Class": "輔助",
+    "Name": "吟霖",
+    "MaxPoints": 474.7,
+    "NormalAttack": 8,
+    "HeavyAttack": 20,
+    "SecretWeapon": 21,
+    "Skills": 37,
+    "Other": 14,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "導電傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 9,
+    "Class": "主輸出",
+    "Name": "漂泊者-湮滅",
+    "MaxPoints": 473,
+    "NormalAttack": 20,
+    "HeavyAttack": 5,
+    "SecretWeapon": 30,
+    "Skills": 25,
+    "Other": 20,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "湮滅傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴技能傷害加成",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 10,
+    "Class": "主輸出",
+    "Name": "漂泊者",
+    "MaxPoints": 473.7,
+    "NormalAttack": 11,
+    "HeavyAttack": 31,
+    "SecretWeapon": 23,
+    "Skills": 21,
+    "Other": 14,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "衍射傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 11,
+    "Class": "主輸出",
+    "Name": "秋水",
+    "MaxPoints": 474.8,
+    "NormalAttack": 25,
+    "HeavyAttack": 0,
+    "SecretWeapon": 22,
+    "Skills": 33,
+    "Other": 20,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "氣動傷害加成",
+      "共鳴效率",
+      "攻擊"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 12,
+    "Class": "主輸出",
+    "Name": "莫特婓",
+    "MaxPoints": 496,
+    "NormalAttack": 15,
+    "HeavyAttack": 0,
+    "SecretWeapon": 48,
+    "Skills": 31,
+    "Other": 6,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "熱熔傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 13,
+    "Class": "主輸出",
+    "Name": "丹瑾",
+    "MaxPoints": 474.4,
+    "NormalAttack": 8,
+    "HeavyAttack": 32,
+    "SecretWeapon": 20,
+    "Skills": 22,
+    "Other": 18,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "湮滅傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴技能傷害加成",
+      "重擊傷害加成"
+    ]
+  },
+  {
+    "ID": 14,
+    "Class": "主輸出",
+    "Name": "熾霞",
+    "MaxPoints": 478.6,
+    "NormalAttack": 6,
+    "HeavyAttack": 0,
+    "SecretWeapon": 35,
+    "Skills": 46,
+    "Other": 13,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "熱熔傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 15,
+    "Class": "主輸出",
+    "Name": "散華",
+    "MaxPoints": 472.5,
+    "NormalAttack": 2,
+    "HeavyAttack": 30,
+    "SecretWeapon": 32,
+    "Skills": 30,
+    "Other": 6,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "冷凝傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 16,
+    "Class": "防禦輔",
+    "Name": "淵武",
+    "MaxPoints": 497,
+    "NormalAttack": 5,
+    "HeavyAttack": 0,
+    "SecretWeapon": 46,
+    "Skills": 45,
+    "Other": 4,
+    "Note": "",
+    "MainAffix1": [
+      "防禦"
+    ],
+    "MainAffix3": [
+      "導電傷害加成",
+      "防禦",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "防禦"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "防禦",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 17,
+    "Class": "輔助",
+    "Name": "秧秧",
+    "MaxPoints": 492.5,
+    "NormalAttack": 5,
+    "HeavyAttack": 28,
+    "SecretWeapon": 40,
+    "Skills": 22,
+    "Other": 5,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "氣動傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 18,
+    "Class": "防禦輔",
+    "Name": "桃祈",
+    "MaxPoints": 499.9,
+    "NormalAttack": 8,
+    "HeavyAttack": 0,
+    "SecretWeapon": 50,
+    "Skills": 38,
+    "Other": 4,
+    "Note": "",
+    "MainAffix1": [
+      "防禦"
+    ],
+    "MainAffix3": [
+      "湮滅傷害加成",
+      "防禦",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "防禦"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "防禦",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 19,
+    "Class": "攻擊奶",
+    "Name": "維里奈",
+    "MaxPoints": 442.9,
+    "NormalAttack": 0,
+    "HeavyAttack": 0,
+    "SecretWeapon": 0,
+    "Skills": 0,
+    "Other": 0,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "衍射傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "治療效果加成",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率"
+    ]
+  },
+  {
+    "ID": 20,
+    "Class": "生命奶",
+    "Name": "白芷",
+    "MaxPoints": 437.3,
+    "NormalAttack": 0,
+    "HeavyAttack": 0,
+    "SecretWeapon": 0,
+    "Skills": 0,
+    "Other": 0,
+    "Note": "",
+    "MainAffix1": [
+      "生命"
+    ],
+    "MainAffix3": [
+      "冷凝傷害加成",
+      "生命",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "治療效果加成",
+      "生命"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "生命",
+      "共鳴效率"
+    ]
+  },
+  {
+    "ID": 21,
+    "Class": "主輸出",
+    "Name": "折枝",
+    "MaxPoints": 479.5,
+    "NormalAttack": 54,
+    "HeavyAttack": 18,
+    "SecretWeapon": 0,
+    "Skills": 21,
+    "Other": 7,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "冷凝傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "普攻傷害加成"
+    ]
+  },
+  {
+    "ID": 22,
+    "Class": "主輸出",
+    "Name": "相里要",
+    "MaxPoints": 484.2,
+    "NormalAttack": 13,
+    "HeavyAttack": 5,
+    "SecretWeapon": 62,
+    "Skills": 7,
+    "Other": 13,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "導電傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 23,
+    "Class": "生命奶",
+    "Name": "守岸人",
+    "MaxPoints": 398.5,
+    "NormalAttack": 1,
+    "HeavyAttack": 1,
+    "SecretWeapon": 97,
+    "Skills": 0,
+    "Other": 1,
+    "Note": "",
+    "MainAffix1": [
+      "生命"
+    ],
+    "MainAffix3": [
+      "衍射傷害加成",
+      "生命",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊傷害",
+      "治療效果加成",
+      "生命"
+    ],
+    "SupAffix": [
+      "暴擊傷害",
+      "生命",
+      "共鳴效率",
+      "共鳴解放傷害加成"
+    ]
+  },
+  {
+    "ID": 24,
+    "Class": "主輸出",
+    "Name": "釉瑚",
+    "MaxPoints": 492.4,
+    "NormalAttack": 11,
+    "HeavyAttack": 8,
+    "SecretWeapon": 29,
+    "Skills": 33,
+    "Other": 19,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "冷凝傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 25,
+    "Class": "主輸出",
+    "Name": "椿",
+    "MaxPoints": 486.3,
+    "NormalAttack": 66,
+    "HeavyAttack": 2,
+    "SecretWeapon": 22,
+    "Skills": 0,
+    "Other": 10,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "湮滅傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "普攻傷害加成"
+    ]
+  },
+  {
+    "ID": 26,
+    "Class": "主輸出",
+    "Name": "燈燈",
+    "MaxPoints": 485.2,
+    "NormalAttack": 64,
+    "HeavyAttack": 0,
+    "SecretWeapon": 20,
+    "Skills": 8,
+    "Other": 8,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "導電傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "普攻傷害加成"
+    ]
+  },
+  {
+    "ID": 27,
+    "Class": "主輸出",
+    "Name": "柯萊塔",
+    "MaxPoints": 491.5,
+    "NormalAttack": 11,
+    "HeavyAttack": 0,
+    "SecretWeapon": 0,
+    "Skills": 75,
+    "Other": 14,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "冷凝傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "共鳴技能傷害加成"
+    ]
+  },
+  {
+    "ID": 28,
+    "Class": "主輸出",
+    "Name": "洛可可",
+    "MaxPoints": 487.5,
+    "NormalAttack": 3,
+    "HeavyAttack": 68,
+    "SecretWeapon": 0,
+    "Skills": 12,
+    "Other": 17,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "湮滅傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "重擊傷害加成"
+    ]
+  },
+  {
+    "ID": 29,
+    "Class": "主輸出",
+    "Name": "菲比",
+    "MaxPoints": 479,
+    "NormalAttack": 9,
+    "HeavyAttack": 54,
+    "SecretWeapon": 12,
+    "Skills": 4,
+    "Other": 21,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "衍射傷害加成",
+      "攻擊",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "重擊傷害加成"
+    ]
+  },
+  {
+    "ID": 30,
+    "Class": "布蘭特",
+    "Name": "布蘭特",
+    "MaxPoints": 454.9,
+    "NormalAttack": 62,
+    "HeavyAttack": 0,
+    "SecretWeapon": 12,
+    "Skills": 12,
+    "Other": 14,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "熱熔傷害加成",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率",
+      "普攻傷害加成"
+    ]
+  }
+]
