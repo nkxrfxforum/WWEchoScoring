@@ -930,5 +930,34 @@
       "共鳴效率",
       "普攻傷害加成"
     ]
+  },
+  {
+    "ID": 31,
+    "Class": "主輸出",
+    "Name": "坎特蕾拉",
+    "MaxPoints": 480,
+    "NormalAttack": 0,
+    "HeavyAttack": 0,
+    "SecretWeapon": 0,
+    "Skills": 0,
+    "Other": 0,
+    "Note": "",
+    "MainAffix1": [
+      "攻擊"
+    ],
+    "MainAffix3": [
+      "湮滅傷害加成",
+      "共鳴效率"
+    ],
+    "MainAffix4": [
+      "暴擊",
+      "暴擊傷害"
+    ],
+    "SupAffix": [
+      "暴擊",
+      "暴擊傷害",
+      "攻擊",
+      "共鳴效率"
+    ]
   }
 ]
